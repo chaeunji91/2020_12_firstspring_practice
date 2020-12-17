@@ -1,0 +1,7 @@
+package framework;
+
+public class FrameworkUtil {
+	public static void printMeata(Object obj)) {
+		
+	}
+}

@@ -1,0 +1,13 @@
+package framework;
+
+import static java.lang.annotation.ElementType.FIELD;
+
+import java.lang.annotation.Target;
+
+@Retension()
+@Target(FIELD)
+public @interface MyAnno {
+	public String name() default "no name";
+
+    public String description() default "no description";
+}

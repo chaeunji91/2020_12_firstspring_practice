@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="HomePage_Prototype"/>
+<aop-project name="ch00_DBConnTest2"/>
+<aop-project name="JavascriptStudy"/>
+</aop-reference-model>

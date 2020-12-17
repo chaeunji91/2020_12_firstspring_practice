@@ -1,0 +1,9 @@
+package step4;
+
+public class ComponentUser {
+
+	public static void main(String[] args) {
+		TV tv = TVFactory.getTVBean(args[0]);
+		tv.turnOn();	
+	}
+}

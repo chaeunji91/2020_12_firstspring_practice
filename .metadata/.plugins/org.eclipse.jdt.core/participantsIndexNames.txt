@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3580841885.index
+\team_project_exam\src\main\java
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4288645030.index
+\ch00_DBConnTest2\src\main\java
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3917850083.index
+\HomePage_Prototype\src\main\java
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1716926374.index
+\myFirstJsp\src
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1438003765.index
+\JavascriptStudy\src\main\java
+C:\IDE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3983156605.index
+\myFirstJsp\src
+C:\IDE\STS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4288645030.index
+\ch00_DBConnTest2\src\main\java
+C:\IDE\STS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3917850083.index
+\HomePage_Prototype\src\main\java
+C:\IDE\STS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1716926374.index
+\myFirstJsp\src
+C:\IDE\STS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1438003765.index
+\JavascriptStudy\src\main\java

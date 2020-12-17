@@ -1,0 +1,14 @@
+package a.b.c;
+
+public class Board {
+	private static Board theInstance = new Board();
+	private int id;
+	private String name;
+	private Board() {
+		id=111;
+		name="홍길동";
+	}
+	public Board getInstance() {
+		return theInstance;
+	}
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<bean id=STv class="step5.STv"></bean>
+	<bean id=LTv class="step5.lTv"></bean>

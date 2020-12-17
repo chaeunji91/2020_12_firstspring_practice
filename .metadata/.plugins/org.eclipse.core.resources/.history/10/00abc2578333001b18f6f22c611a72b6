@@ -1,0 +1,10 @@
+package annoUse;
+
+public class AnnoUser {
+	private int age;
+	public static void main(String[] args) {
+		
+
+	}
+
+}

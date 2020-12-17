@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>login</title>
+    <style>
+        body {
+            height: 100%;
+            background-color: #F3F1E9;
+        }
+
+        label {
+            display: inline-block;
+            width: 120px;
+        }
+
+        input {
+            display: inline-block;
+            width: 160px;
+        }
+    </style>
+
+</head>
+<body>
+
+</body>
+</html>

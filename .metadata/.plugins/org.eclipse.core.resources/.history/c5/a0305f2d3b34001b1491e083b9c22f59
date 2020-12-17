@@ -1,0 +1,12 @@
+package step3;
+
+public class LTv implements TV {
+	public void powerOn() {
+		System.out.println("즐거운 시청시간 가져와");
+	}
+
+	@Override
+	public void turnOn() {
+		powerOn(); // 연결고리
+	}
+}

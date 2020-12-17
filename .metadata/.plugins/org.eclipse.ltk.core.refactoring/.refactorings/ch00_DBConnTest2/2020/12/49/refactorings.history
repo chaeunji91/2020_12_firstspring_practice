@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;root-context.xml&apos; to &apos;frameworkConcept/src/step5&apos;&#x0D;&#x0A;- Original project: &apos;ch00_DBConnTest2&apos;&#x0D;&#x0A;- Destination element: &apos;frameworkConcept/src/step5&apos;&#x0D;&#x0A;- Original element: &apos;root-context.xml&apos;" description="Copy file" destination="=frameworkConcept/src&lt;step5" element1="src/main/webapp/WEB-INF/spring/root-context.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1606873494111" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+package step4;
+
+public class ComponentUserS4 {
+
+	public static void main(String[] args) {
+		TV tv = TVFactory.getTVBean(args[0]);
+		// Index 0 out of bounds for length 0
+		// null -> null point exception
+		tv.turnOn();	// 안바꾸고 여기에서만 바꾸게 됨
+	}
+}

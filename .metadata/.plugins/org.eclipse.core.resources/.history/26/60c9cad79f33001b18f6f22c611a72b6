@@ -1,0 +1,24 @@
+package a.b.c;
+
+public class Board {
+	private static Board theInstance = new Board();
+	private int id;
+	private String name;
+	private Board() {
+		id=111;
+		name="홍길동";
+	}
+	public Board getInstance() {
+		return theInstance;
+	}
+	public String genForm() {
+		StringBuilder sb = new StringBuilder();
+		sb.append("<form action=\"registerMember\" method=\"post\">")
+		.append("id : ")
+		.append("<input type = \"text\" name = \ "id\">")".append("</input>")
+		.append("id : ")
+		.append("id : ")
+		
+		return sb.toString();
+	}
+}

@@ -1,0 +1,7 @@
+package step1;
+
+public class STv {
+	public void turnOn {
+		System.out.println("즐거운 시청시간");
+	}
+}

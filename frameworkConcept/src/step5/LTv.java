@@ -1,0 +1,16 @@
+package step5;
+
+public class LTv implements TV {
+	public LTv() {
+		System.out.println("LTv instanciating");
+	}
+		
+	public void powerOn() {
+		System.out.println("LTV로 즐거운 시청시간 가져와");
+	}
+
+	@Override
+	public void turnOn() {
+		powerOn(); // 연결고리
+	}
+}

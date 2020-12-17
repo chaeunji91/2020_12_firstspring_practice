@@ -1,0 +1,9 @@
+package step3;
+
+public class ComponentUser {
+
+	public static void main(String[] args) {
+		Tv tv = new LTv();
+		tv.turnOn();	
+	}
+}

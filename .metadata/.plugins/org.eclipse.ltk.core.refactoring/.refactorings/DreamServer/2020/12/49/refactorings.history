@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;www.dream.com.framework.Container&apos; to &apos;DreamServer&apos;&#x0D;&#x0A;- Original project: &apos;DreamServer&apos;&#x0D;&#x0A;- Original element: &apos;www.dream.com.framework.Container&apos;&#x0D;&#x0A;- Renamed element: &apos;www.dream.com.framework.DreamServer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Container&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;www.dream.com.framework{Container.java[Container" matchStrategy="1" name="DreamServer" qualified="false" references="true" similarDeclarations="false" stamp="1606886208634" textual="false" version="1.0"/>
+</session>

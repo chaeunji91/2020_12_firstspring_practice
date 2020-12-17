@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context deployedProject="step5.ComponentUserS5"/>
+//deployedProject: 배포된, 이프로젝트에 war파일이 자동으로 만들어져서, 서버 안으로 들어가도록 함

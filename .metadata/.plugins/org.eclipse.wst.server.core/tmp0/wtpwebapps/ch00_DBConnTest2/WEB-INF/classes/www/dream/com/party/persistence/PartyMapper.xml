@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="www.dream.com.party.persistence.PartyMapper">
+	<resultMap id="partyResultMap" type="www.dream.com.party.model.PartyVO">
+		<id property="id" column="id"/>
+		<result property="name" column="name"/>
+		<result property="birthDate" column="birth_date"/>
+		<result property="loginId" column="login_id"/>
+		<result property="pwd" column="pwd"/>
+		<result property="balance" column="balance"/>
+	</resultMap>
+
+	<select id="findAllParty" resultMap="partyResultMap">
+		select id, name, birth_date, login_id, pwd, balance
+		  from T_Party
+	</select>
+</mapper>

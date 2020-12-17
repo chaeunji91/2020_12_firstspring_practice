@@ -1,0 +1,11 @@
+package framework;
+
+import java.lang.reflect.Field;
+
+public class FrameworkUtil {
+	public static void printMeata(Object obj)) {
+		for(Field fiedl :obj.getClass().getDeclaredFields()) {
+			
+		}
+	}
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>쇼핑 카트</title>
+<style>
+	body {
+		height: 100%;
+		background-color: #F3F1E9;
+	}
+	
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		text-align: center;
+	}
+	
+	table caption {
+		color: red;
+		text-decoration: underline;
+	}
+</style>
+
+</head>
+<body>
+
+</body>
+</html>
